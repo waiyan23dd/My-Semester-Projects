@@ -1,1 +1,1 @@
-# Clinical-Appointment-And-Diagnosis-Management-System-
+My Semester projects
